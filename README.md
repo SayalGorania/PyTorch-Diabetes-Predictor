@@ -1,2 +1,2 @@
-# PyTorch-Experiments
-A repo for all of the PyTorch experiments that I am developing to learn about PyTorch
+# PyTorch-Experiments: Diabetes Predictor
+A repo for the diabetes predictor that I am developing to learn about PyTorch.
